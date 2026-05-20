@@ -2,7 +2,7 @@
 
 [![영상 보러가기](https://img.youtube.com/vi/HuwVZSxAesw/mqdefault.jpg)](https://youtu.be/HuwVZSxAesw)
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/HuwVZSxAesw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+https://youtu.be/HuwVZSxAesw
 
 > **아두이노(Arduino) 기반 4인치 스마트 RC카의 주행 알고리즘을 개선하여, 기존 On/Off 제어의 한계를 극복하고 주행 안정성과 코스 완주율을 극대화한 프로젝트입니다.**
 
