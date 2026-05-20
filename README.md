@@ -1,6 +1,14 @@
 # 🏎️ 4휠 스마트 RC카 고속 주행 및 탈선 방지 알고리즘 고도화 프로젝트
 
-#https://youtu.be/HuwVZSxAesw
+<iframe 
+  width="560" 
+  height="315" 
+  src="[https://youtube.com](https://youtu.be/HuwVZSxAesw)" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
 > **아두이노(Arduino) 기반 4인치 스마트 RC카의 주행 알고리즘을 개선하여, 기존 On/Off 제어의 한계를 극복하고 주행 안정성과 코스 완주율을 극대화한 프로젝트입니다.**
 
 ---
